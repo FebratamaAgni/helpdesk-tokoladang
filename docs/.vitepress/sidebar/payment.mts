@@ -31,6 +31,10 @@ export const paymentGuideSidebarItem = (): DefaultTheme.SidebarItem[] => {
             link: '/guide/payment/20260828-000000-pembayaran-kode-bayar-bank-sumut',
         },
         {
+            text: 'Kode Bayar Bank Kalsel',
+            link: '/guide/payment/20261026-145924-pembayaran-kode-bayar-bank-kalsel',
+        },
+        {
             text: 'VA BSI',
             link: '/guide/payment/20261102-000000-pembayaran-va-bsi',
         },
