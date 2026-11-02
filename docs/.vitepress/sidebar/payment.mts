@@ -30,5 +30,9 @@ export const paymentGuideSidebarItem = (): DefaultTheme.SidebarItem[] => {
             text: 'Kode Bayar Bank Sumut',
             link: '/guide/payment/20260828-000000-pembayaran-kode-bayar-bank-sumut',
         },
+        {
+            text: 'VA BSI',
+            link: '/guide/payment/20261102-000000-pembayaran-va-bsi',
+        },
     ]
 }
